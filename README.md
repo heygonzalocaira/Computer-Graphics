@@ -14,10 +14,10 @@ pip install opencv-python
 ```
 
 ## Histogram Equalization
-![image input](https://github.com/madscientist98/Computer-Graphics/blob/master/src/Histogram-Equalization/h2.png)
+
 <p align="center">
-  <img align="left" width="400" height="250" src="master/src/Histogram Equalization/h2.png">
-  <img align="right" width="400" height="250" src="src/Histogram-Equalization/h.png">
+  <img align="left" width="400" height="250" src="src/Histogram Equalization/h2.png">
+  <img align="right" width="400" height="250" src="src/Histogram Equalization/h.png">  
 </p>
 
 
