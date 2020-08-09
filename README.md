@@ -13,13 +13,14 @@
 pip install opencv-python
 ```
 
-## Histogram Equalization
+# Histogram Equalization
 <p align="center">
   <img align="left" width="400" height="250" src="src/Histogram Equalization/h2.png">
   <img align="right" width="400" height="250" src="src/Histogram Equalization/h.png">  
 </p>
 
-## Image-Aritmetic
+# Image-Aritmetic
+<li>Line 1</li>
 - Multiplication
 The pixels of the image are multiplied by a constant
 original image; c= 2;c=5;c=7 respectively
@@ -31,7 +32,7 @@ original image; c= 2;c=5;c=7 respectively
     <img align="left" width="400" height="280" src="src/image%20Aritmetic/Multiplication2.jpg">
     <img align="right" width="400" height="280" src="src/image%20Aritmetic/Multiplication3.jpg">  
    </p>
-
+<li>Line 1</li>
 - Blending
   <p align="center">
     <img align="left" width="400" height="280" src="src/image%20Aritmetic/mul_4.jpg">
@@ -41,23 +42,22 @@ original image; c= 2;c=5;c=7 respectively
     <img align="left" width="400" height="280" src="src/image%20Aritmetic/blending1.jpg">
     <img align="right" width="400" height="280" src="src/image%20Aritmetic/blending.jpg" >  
   </p>
-  
-## Logistic operators
--Input images
+<li>Line 1</li>
+# Logistic operators
+# Input images
   <p align="center">
     <img align="left" width="430" height="280" src="src/Logic%20operator/log_3.png">
-    <img align="right" width="430" height="280" src="src/Logic%20operator/log_4.png" >  
-   </p>  
+  </p>  
 
--Logical AND
+# Logical AND
   <p align="center">
     <img width="430" height="280" src="src/Logic%20operator/output_and.png">
   </p>
--Logical OR
+# Logical OR
   <p align="center">
     <img width="430" height="280" src="src/Logic%20operator/output_or.png">
   </p>
--Logical XOR
+# Logical XOR
   <p align="center">
     <img width="430" height="280" src="src/Logic%20operator/output_XOR.png">
   </p>
