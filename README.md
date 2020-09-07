@@ -14,53 +14,35 @@ pip install opencv-python
 ```
 
 # Histogram Equalization
-<p align="center">
-  <img align="left" width="400" height="250" src="src/Histogram Equalization/h2.png">
-  <img align="right" width="400" height="250" src="src/Histogram Equalization/h.png">  
-</p>
+|     |     |
+| :-: | :-: |
+|  <img align="left" width="400" height="250" src="src/Histogram Equalization/h2.png"> | <img align="right" width="400" height="250" src="src/Histogram Equalization/h.png">  |
+
 
 # Image-Aritmetic
-<li>Line 1</li>
-- Multiplication
-The pixels of the image are multiplied by a constant
-original image; c= 2;c=5;c=7 respectively
-  <p align="center">
-    <img align="left" width="400" height="280" src="src/image%20Aritmetic/mul_4.jpg">
-    <img align="right" width="400" height="280" src="src/image%20Aritmetic/Multiplication1.jpg">  
-  </p>
-  <p align="center">
-    <img align="left" width="400" height="280" src="src/image%20Aritmetic/Multiplication2.jpg">
-    <img align="right" width="400" height="280" src="src/image%20Aritmetic/Multiplication3.jpg">  
-   </p>
-<li>Line 1</li>
-- Blending
-  <p align="center">
-    <img align="left" width="400" height="280" src="src/image%20Aritmetic/mul_4.jpg">
-    <img align="right" width="400" height="280" src="src/image%20Aritmetic/sub_11.jpg">  
-  </p>
-  <p align="center">
-    <img align="left" width="400" height="280" src="src/image%20Aritmetic/blending1.jpg">
-    <img align="right" width="400" height="280" src="src/image%20Aritmetic/blending.jpg" >  
-  </p>
-<li>Line 1</li>
-# Logistic operators
-# Input images
-  <p align="center">
-    <img align="left" width="430" height="280" src="src/Logic%20operator/log_3.png">
-  </p>  
+Multiplication : The pixels of the image are multiplied by a constant
+original image.
+|     |     |
+| :-: | :-: |
+| c= 2 | c=5 |
+|  <img align="left" width="400" height="280" src="src/image%20Aritmetic/mul_4.jpg"> |<img align="right" width="400" height="280" src="src/image%20Aritmetic/Multiplication1.jpg">  |
+| c= 7 |  |
+| <img align="left" width="400" height="280" src="src/image%20Aritmetic/Multiplication2.jpg">|   |
 
-# Logical AND
-  <p align="center">
-    <img width="430" height="280" src="src/Logic%20operator/output_and.png">
-  </p>
-# Logical OR
-  <p align="center">
-    <img width="430" height="280" src="src/Logic%20operator/output_or.png">
-  </p>
-# Logical XOR
-  <p align="center">
-    <img width="430" height="280" src="src/Logic%20operator/output_XOR.png">
-  </p>
+Blending
+|     |     |
+| :-: | :-: |
+|  <img align="left" width="400" height="280" src="src/image%20Aritmetic/mul_4.jpg">   | <img align="right" width="400" height="280" src="src/image%20Aritmetic/sub_11.jpg">     |
+|   <img align="left" width="400" height="280" src="src/image%20Aritmetic/blending1.png">   |  <img align="right" width="400" height="280" src="src/image%20Aritmetic/blending.png" >     |
+
+# Logistic operators
+
+
+|     |     |     |     |
+| :-: | :-: | :-: | :-: |
+|  Input image   |  Logical AND   | Logical OR    | Logical XOR   |
+|   <img align="left" width="430" height="280" src="src/Logic%20operator/log_3.png">  |   <img width="430" height="280" src="src/Logic%20operator/output_and.png">  | <img width="430" height="280" src="src/Logic%20operator/output_or.png">    |    <img width="430" height="280" src="src/Logic%20operator/output_XOR.png"> |
+
 
 
 ## License
